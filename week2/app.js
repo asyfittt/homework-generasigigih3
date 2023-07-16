@@ -20,18 +20,18 @@ app.post("/playlist", (req, res) => {
   }
 
   playlist.addSong(title, artists, url);
-  res.status(201).json({ message: "Song added to the playlist successfully" });
+  res.status(201).json({ message: "Berhasil memasukkan lagu ke playlist" });
 });
 
 // Fungsi mainkan lagu
 app.put("/playlist/:songIndex/play", (req, res) => {
   const songIndex = req.params.songIndex;
   if (!playlist.getSongs()[songIndex]) {
-    return res.status(404).json({ error: "Song not found in the playlist" });
+    return res.status(404).json({ error: "Lagu tidak ditemukan di playlist" });
   }
 
   playlist.playSong(songIndex);
-  res.status(200).json({ message: "Playing song from the playlist" });
+  res.status(200).json({ message: "Putar lagu dari playlist" });
 });
 /* Fungsi mainkan lagu kalo di postman udah bisa tapi kalo di browser
  * muncul tulisan "Cannot GET /playlist/0/play"

@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993c6"
+  },
+  "title": "Song A",
+  "plays": 500,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993c7"
+  },
+  "title": "Song B",
+  "plays": 750,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993c8"
+  },
+  "title": "Song C",
+  "plays": 1200,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993c9"
+  },
+  "title": "Song D",
+  "plays": 300,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993ca"
+  },
+  "title": "Song E",
+  "plays": 900,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993cb"
+  },
+  "title": "Song F",
+  "plays": 620,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993cc"
+  },
+  "title": "Song G",
+  "plays": 850,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993cd"
+  },
+  "title": "Song H",
+  "plays": 430,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993ce"
+  },
+  "title": "Song I",
+  "plays": 1100,
+  "period": "2023-07-01 to 2023-07-15"
+},
+{
+  "_id": {
+    "$oid": "64b55dfdb204c23b4a7993cf"
+  },
+  "title": "Song J",
+  "plays": 680,
+  "period": "2023-07-01 to 2023-07-15"
+}]

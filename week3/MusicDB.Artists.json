@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993e2"
+  },
+  "name": "Artist A",
+  "dateOfBirth": "1990-01-01",
+  "genres": [
+    "Genre 1",
+    "Genre 2",
+    "Genre 3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993e3"
+  },
+  "name": "Artist B",
+  "dateOfBirth": "1985-03-15",
+  "genres": [
+    "Genre 2",
+    "Genre 3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993e4"
+  },
+  "name": "Artist C",
+  "dateOfBirth": "1995-06-20",
+  "genres": [
+    "Genre 1",
+    "Genre 2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993e5"
+  },
+  "name": "Artist D",
+  "dateOfBirth": "1988-12-10",
+  "genres": [
+    "Genre 3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993e6"
+  },
+  "name": "Artist E",
+  "dateOfBirth": "1982-07-25",
+  "genres": [
+    "Genre 2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993e7"
+  },
+  "name": "Artist F",
+  "dateOfBirth": "1992-05-05",
+  "genres": [
+    "Genre 1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993e8"
+  },
+  "name": "Artist G",
+  "dateOfBirth": "1987-09-08",
+  "genres": [
+    "Genre 3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993e9"
+  },
+  "name": "Artist H",
+  "dateOfBirth": "1991-11-30",
+  "genres": [
+    "Genre 2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993ea"
+  },
+  "name": "Artist I",
+  "dateOfBirth": "1989-04-17",
+  "genres": [
+    "Genre 1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5602eb204c23b4a7993eb"
+  },
+  "name": "Artist J",
+  "dateOfBirth": "1994-02-22",
+  "genres": [
+    "Genre 2"
+  ]
+}]
